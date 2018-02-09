@@ -9,9 +9,9 @@
         <feedItemType>EmailMessageEvent</feedItemType>
     </caseFeedItemSettings>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
-    <defaultCaseOwner>rylbertprod@gmail.com</defaultCaseOwner>
+    <defaultCaseOwner>rylbertdevuno@gmail.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>rylbertprod@gmail.com</defaultCaseUser>
+    <defaultCaseUser>rylbertdevuno@gmail.com</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>
