@@ -9,6 +9,7 @@ public class StringArrayTest
                text.add('Test ' + i);
                 System.debug(text[i]);
             }
+             System.debug(text);
          return text;
     }
    
